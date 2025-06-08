@@ -1,6 +1,6 @@
-# AASHA - Actionable Assistance for Safety, Hope, and Awareness
+# AASA - Actionable Assistance for Safety, Hope, and Awareness
 
-AASHA is a comprehensive safety and empowerment platform designed to provide real-time assistance, secure peer support, and interactive safety resources. Built using modern web technologies, AASHA ensures users have access to critical tools in times of need, with a strong focus on privacy, accessibility, and community-driven safety.
+AASA is a comprehensive safety and empowerment platform designed to provide real-time assistance, secure peer support, and interactive safety resources. Built using modern web technologies, AASHA ensures users have access to critical tools in times of need, with a strong focus on privacy, accessibility, and community-driven safety.
 
 ## Features
 
